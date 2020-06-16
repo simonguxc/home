@@ -2,7 +2,7 @@
 main:
     
   - title: "Photography"
-    url: ../blog/
+    url: /../blog/
 
   - title: "Videos"
     url: /talks/    
