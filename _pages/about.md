@@ -12,4 +12,4 @@ Hello I am Simon GU!!!!!!!!
 
 I am a bitch!
 
-<img src="https://s1.ax1x.com/2020/06/16/NiBEcQ.md.jpg" href="player.bilibili.com/player.html?aid=583456351&bvid=BV1yz4y197Tw&cid=200998841&page=1">
+[![pic1](https://s1.ax1x.com/2020/06/16/NiBEcQ.md.jpg)](https://www.bilibili.com/video/BV1yz4y197Tw?spm_id_from=333.851.b_7265706f7274466972737432.5)
