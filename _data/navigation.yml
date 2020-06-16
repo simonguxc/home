@@ -2,7 +2,7 @@
 main:
     
   - title: "Photography"
-    url: /portfolio/
+    url: /blog/
 
   - title: "Videos"
     url: /talks/    
