@@ -2,13 +2,13 @@
 main:
     
   - title: "Photography"
-    url: /../blog/
+    url: /../../https://photos.app.goo.gl/S5Yoo5R9mouQg7Fj9
 
   - title: "Videos"
     url: /talks/    
 
   - title: "Articles"
-    url: /teaching/    
+    url: /../blog/    
     
   - title: "Music/Drama"
     url: /publications/
