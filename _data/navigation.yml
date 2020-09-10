@@ -1,14 +1,15 @@
 # main links links
 main:
+   
+
+  - title: "Articles"
+    url: /../blog/    
     
   - title: "Photography"
     url: /../../https://photos.app.goo.gl/S5Yoo5R9mouQg7Fj9
 
   - title: "Videos"
     url: /talks/    
-
-  - title: "Articles"
-    url: /../blog/    
     
   - title: "Music/Drama"
     url: /publications/
